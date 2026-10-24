@@ -2,11 +2,11 @@
 
 # Elisa Releases
 
-**El cliente de APIs que habla todos tus formatos.**
+**The client de APIs que habla todos tus formatos.**
 
 Importa colecciones y entornos de Postman, Insomnia, OpenAPI y más. Prueba, automatiza y comparte con un motor nativo en Rust.
 
-![Texto alternativo](https://github.com/CesarMartinez7/elisa-releases/blob/main/elisa-demo-portada.png)
+![Texto alternativo](https://github.com/CesarMartinez7/elisa-releases/blob/main//317_1x_shots_so.png)
 
 [![Última versión](https://img.shields.io/github/v/release/CesarMartinez7/elisa-releases?label=versi%C3%B3n&color=e36b5b)](https://github.com/CesarMartinez7/elisa-releases/releases/latest)
 [![Descargas](https://img.shields.io/github/downloads/CesarMartinez7/elisa-releases/total?label=descargas&color=f5968b)](https://github.com/CesarMartinez7/elisa-releases/releases)
